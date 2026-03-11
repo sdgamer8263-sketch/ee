@@ -46,7 +46,7 @@ while true; do
         4)  bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/doc.sh) ; pause_and_return ;;
         5)  bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/kali-rdp.sh) ; pause_and_return ;;
         6)  bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/localtonet.sh) ; pause_and_return ;;
-        7)  bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/lxc.sh) ; pause_and_return ;;
+        7)  bash <(curl -s https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/lxc.sh) ; pause_and_return ;;
         8)  bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/panel.sh) ; pause_and_return ;;
         9)  bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/tailscale.sh) ; pause_and_return ;;
         10) bash <(curl -sL https://raw.githubusercontent.com/sdgamer8263-sketch/ee/main/win16.sh) ; pause_and_return ;;
