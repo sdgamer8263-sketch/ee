@@ -31,7 +31,7 @@ while true; do
     echo -e "  \e[1;33m[5]\e[0m  Kali RDP"
     echo -e "  \e[1;33m[6]\e[0m  Localtonet (PORT FORWARDING)"
     echo -e "  \e[1;33m[7]\e[0m  LXC/LXD"
-    echo -e "  \e[1;33m[8]\e[0m  Vps Control Panel/VDS"
+    echo -e "  \e[1;33m[8]\e[0m  1Panel"
     echo -e "  \e[1;33m[9]\e[0m  Tailscale"
     echo -e "  \e[1;33m[10]\e[0m Windows 16"
     echo -e "  \e[1;31m[0]\e[0m  Exit"
